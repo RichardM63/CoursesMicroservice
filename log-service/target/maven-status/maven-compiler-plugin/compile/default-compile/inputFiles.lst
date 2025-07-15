@@ -1,0 +1,5 @@
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\log-service\src\main\java\com\utp\log_service\domain\repository\CursoLogRepository.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\log-service\src\main\java\com\utp\log_service\domain\model\CursoLog.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\log-service\src\main\java\com\utp\log_service\config\KafkaConsumerConfig.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\log-service\src\main\java\com\utp\log_service\LogServiceApplication.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\log-service\src\main\java\com\utp\log_service\infrastructure\messaging\CursoLogConsumer.java

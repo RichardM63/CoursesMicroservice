@@ -1,0 +1,14 @@
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\dto\CursoResponseDTO.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\domain\repository\CursoRepository.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\infrastructure\persistence\SpringDataCursoRepository.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\dto\CrearCursoDTO.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\application\service\ICourseService.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\config\KafkaProducerConfig.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\application\service\CourseServiceImpl.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\CourseServiceApplication.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\infrastructure\controller\CursoController.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\domain\model\Curso.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\config\OpenApiConfig.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\infrastructure\messaging\KafkaCursoProducer.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\infrastructure\persistence\JpaCursoRepository.java
+C:\Users\resta\OneDrive\Escritorio\Trabajo\utp-microservice-root\utp-microservice-root\course-service\src\main\java\com\utp\course_service\domain\event\CursoCreadoEvent.java

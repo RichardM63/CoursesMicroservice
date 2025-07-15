@@ -1,0 +1,6 @@
+com\utp\log_service\domain\model\CursoLog$CursoLogBuilder.class
+com\utp\log_service\config\KafkaConsumerConfig.class
+com\utp\log_service\domain\model\CursoLog.class
+com\utp\log_service\infrastructure\messaging\CursoLogConsumer.class
+com\utp\log_service\LogServiceApplication.class
+com\utp\log_service\domain\repository\CursoLogRepository.class
